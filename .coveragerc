@@ -1,0 +1,10 @@
+[run]
+omit =
+    */__init__.py
+    app/config.py
+    app/extensions.py
+
+[report]
+exclude_lines =
+    pragma: no cover
+    if __name__ == .__main__.:
