@@ -2,6 +2,9 @@
 
 A professional URL shortening service built with **FastAPI**, focused on security, performance, and maintainability. This project demonstrates best practices for modern Python web APIs including async ORM integration, JWT authentication, rate limiting, and automated testing.
 
+> [!NOTE]
+> This project was created in a weekend, so with a time limit constraint, so there is somethings missing and not complete, take this as a test of skills.
+
 ---
 
 ## Features
